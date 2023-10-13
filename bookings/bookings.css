@@ -1,0 +1,155 @@
+.b{
+    background-color: #BFEAF5;
+}
+
+.home {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+  color: #256D85;
+  background-color: white;
+  padding: 10px 10px;
+  text-decoration:none;
+  border: none;
+  border-style: none;
+  font-size: 2.5rem;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: -50px;
+  margin-left: 302px;
+}
+
+.plane-line{
+  width: 90%;
+  position: relative;
+  margin-left: 28px;
+  margin-top: -5px;
+}
+
+.travelagency{
+  color: #73777B;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: 'Titillium Web', sans-serif;
+  margin-left: 25px;
+  margin-top: -15px;
+}
+
+.home:hover {
+  text-decoration: none;
+}
+
+
+.maindiv{
+  width: 57%;
+  height: 780px;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 110px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 10px;
+}
+
+.text{
+  margin-top: 8px;
+  margin-left: 50px;
+}
+
+.t1{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: lighter;
+  padding-top: 30px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.line2{
+  height: 2px;
+  margin-top: 20px;
+  background-image: linear-gradient(to left top, #06d8df, #00a4c0, #007198, #004268, #051937);
+  /* background-image: linear-gradient(to right top, #b2bbc7, #8593ab, #5c6c8e, #384672, #152355); */
+}
+
+.line{
+  height: 2px;
+  margin-top: 20px;
+  background-image: linear-gradient(to left top, #06d8df, #00a4c0, #007198, #004268, #051937);
+}
+
+.textinfo{
+  margin-left: 50px;
+  padding-top: -20px;
+  /* font-family: 'Lily Script One', cursive; */
+  padding-top: -10px;
+}
+
+.pn{
+  padding-left: 150px;
+}
+
+.pn1{
+  padding-left: 115px;
+}
+
+.login-button{
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 18px;
+  width: 170px;
+  height: 50px;
+  background-image: linear-gradient(to left, #91b9c4, #6c9bb0, #4c7d9d, #325f88, #214272);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+.login-button:hover{
+  opacity:0.9;
+  font-weight: bold;
+}
+
+.emi{
+  font-size: 2rem;
+
+}
+
+.emi_input{
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: -50px;
+  width: 200px;
+  height: 35px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: black;
+}
+
+.btnenter {
+  background: #3498db;
+  background-image: linear-gradient(to left, #91b9c4, #6c9bb0, #4c7d9d, #325f88, #214272);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 170px;
+  height: 50px;
+  border-style: hidden;
+  margin-left: 505px;
+  /* margin-bottom: -50px; */
+}
+
+.btnenter:hover{
+  opacity:0.9;
+  font-weight: bold;
+}

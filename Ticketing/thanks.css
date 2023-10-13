@@ -1,0 +1,102 @@
+.b{
+    background-color: #BFEAF5;
+}
+
+.home {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+  color: #256D85;
+  background-color: white;
+  padding: 10px 10px;
+  text-decoration:none;
+  border: none;
+  border-style: none;
+  font-size: 2.5rem;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: -50px;
+  margin-left: 320px;
+}
+
+.plane-line{
+  width: 90%;
+  position: relative;
+  margin-left: 28px;
+  margin-top: -5px;
+}
+
+.travelagency{
+  color: #73777B;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: 'Titillium Web', sans-serif;
+  margin-left: 25px;
+  margin-top: -15px;
+}
+
+.home:hover {
+  text-decoration: none;
+}
+
+
+.maindiv{
+  width: 57%;
+  height: 400px;
+  margin: auto;
+  margin-top: 110px;
+  margin-bottom: 110px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 10px;
+}
+
+.text{
+  margin-top: 8px;
+  margin-left: 50px;
+}
+
+.image{
+    width: 100%;
+    height: 170px;
+    display:inline;
+}
+
+.t1{
+  padding-top: 30px;
+  font-size: 5rem;
+  text-align: center;
+  background: #214272;
+  background: linear-gradient(to right, #214272 0%, #325F88 50%, #91B9C4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.back-button{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 18px;
+  width: 130px;
+  height: 50px;
+  background-image: linear-gradient(to left, #91b9c4, #6c9bb0, #4c7d9d, #325f88, #214272);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+.back-button:hover{
+  opacity:0.9;
+  font-weight: bold;
+}
+
+.lasttext{
+  opacity: 0.6;
+  text-align: center;
+  margin-left:55px;
+}
